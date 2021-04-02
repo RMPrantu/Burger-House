@@ -1,0 +1,788 @@
+@media all and (max-width: 768px ){
+
+p{
+	font-size: 8px;
+}
+.header-area {
+	padding: 20px 0;
+}
+.wellcome-text{
+	overflow: hidden;
+	margin-top: 100px;
+}
+.getting-started .start-text {
+	margin-bottom: 10px;
+}
+.getting-started .text-area{
+	padding-bottom: 240px;
+	margin-top: 10px;
+	background-image: url('images/hand.png');
+	background-repeat: no-repeat;
+	background-size: 62% auto;
+	background-position: top right;
+}
+.getting-started .row{
+	margin-top: 10px;
+}
+
+.community-area .image-one {
+	padding-top: 0;
+	
+}
+.community-area .image-one h3 {
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.community-area .image-one p{
+	font-size: 8px;
+	line-height: 1.3em;
+	color: #373737;
+}
+.subscribe-area{
+	background: url('images/subscribe-bg.jpg') no-repeat 0 0 / 100% 100% ;
+	padding: 200px;
+	overflow: hidden;
+}
+.download-area h4{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 11px;
+	line-height: 1.6em;
+	color: #373737;
+	padding: 10px 0;
+	margin-bottom: 40px ;
+}
+
+.buttons i{
+	padding: 8px 15px;
+	border-radius: 0 3px 3px 0;
+}
+.buttons .btn {
+	padding: 12.5px 15px 10.5px 15px;
+	font-size: 18.5px;
+	border-radius: 3px 0 0 3px;
+}
+.buttons .apple{
+	margin-left: 5%;
+}
+}
+
+
+
+
+
+@media all and (max-width: 360px ){
+	
+p{
+	font-size: 6px;
+}
+.header-area {
+	padding: 5px 0;
+}
+.container{
+	width: 90%;
+	
+}
+.menu-area ul li{
+	display: inline;
+	margin: 3px;
+}
+.menu-area ul li a{
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10px;
+	border-bottom: 1px solid transparent ;
+	display: inline-block;
+	padding: 10px 0;
+	transition: .5s;	
+}
+.menu-area ul .logo img{
+	margin: 0 5px;
+	width: 30px;
+	height: auto;
+}
+
+
+.wellcome-text{
+	overflow: hidden;
+	margin-top: 20px;
+}
+.wellcome-text h2{
+	font-size: 20px;
+	letter-spacing: 0;
+}
+.social-icons{
+	overflow: hidden;
+	margin-top: 120px;
+}
+.btn {
+	padding: 6px 12px;
+	border-radius: 2px;
+	font-size: 10px;
+}
+.social-icons ul li a{
+	font-size: 15px;
+	margin-left:5px;
+}
+
+.getting-started .start-text {
+	margin-bottom: 0;
+}
+.getting-started .text-area{
+	padding-bottom: 58%;
+	margin-top: 20px;
+	background-image: url('images/hand.png');
+	background-repeat: no-repeat;
+	background-size: 90% auto;
+	background-position: top right;
+}
+.getting-started .row{
+	margin-top: 14px;
+}
+.text-area p{
+	margin-bottom: 15px;
+	font-size: 7px;
+}
+
+
+.getting-started h3 {
+	font-size: 7px;
+	text-align: center;
+}
+.design-area{
+	overflow: hidden;
+	margin-top: 40px;
+	padding-bottom: 20px;
+}
+.arrow i {
+	color: black;
+	font-size: 15px;
+	margin-right: 10px;
+}
+.slide {
+	margin: 5px 0;
+}
+.design-area p{
+	margin-bottom: 10px;
+}
+.design-area h3{
+	margin-bottom: 7px;
+	margin-top: 0;
+}
+.community-area .image-one h3 {
+	font-size: 7px;
+	letter-spacing: 0.5;
+}
+
+.community-area .image-one img{
+	width: 30px;
+	height: auto;
+}
+.community-area .image-one p{
+	font-size: 5px;
+}
+.community-area{
+	overflow: hidden;
+	background: #f5f6f7;
+	padding: 60px 0;
+}
+
+.image-one {
+	overflow: hidden;
+	float: left;
+	width: 28%;
+	padding-top: 0;
+	text-align: center;
+}
+
+.subscribe-area{
+	background: url('images/subscribe-bg.jpg') no-repeat 0 0 / 100% 100% ;
+	padding: 60px 0;
+	overflow: hidden;
+}
+
+.subscribe-area form {
+	width: 100%;
+	margin: 0;
+	padding-left:60px;
+}
+.subscribe-area form input[type="email"] {
+	padding: 13px 10px;
+	border-radius: 3px 0 0 3px;
+	font-size: 8px;
+	width: 150px;
+}
+.subscribe-area form button[type="submit"] {
+	padding: 10px 10px 13px 10px;
+	border-radius: 0 2px 2px 0;
+}
+.subscribe-area h3{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 5px;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+
+.download-area h4{
+	font-size: 6.5px;
+	line-height: 1.6em;
+	color: #373737;
+	padding: 10px 0;
+	margin-bottom: 40px ;
+}
+.buttons{
+	overflow: hidden;
+	margin-left: 2%;
+	padding:0;
+	
+}
+.buttons i{
+	padding: 5px 5px 8px 5px;
+	border-radius: 0 3px 3px 0;
+	margin-right: 0;
+}
+.buttons .btn {
+	padding: 12.5px 13px 8px 12px;
+	font-size: 12.5px;
+	border-radius: 3px 0 0 3px;
+}
+.buttons .apple{
+	overflow: hidden;
+	float: left;
+	margin-left: 0;
+	padding: 0;
+}
+.footer-area{
+	overflow: hidden;
+	padding: 10px 0;
+}
+
+.footer-area .left-side {
+	overflow: hidden;
+	float: left;
+	width: 70%;
+}
+.footer-area .left-side b{
+	color: black;
+	font-family: gothamroundedbold;
+	font-weight: normal;
+}
+.footer-area .left-side h4{
+	font-size: 9px;
+	font-weight: normal;
+}
+
+
+.footer-area .right-side {
+	overflow: hidden;
+	width: 30%;
+}
+.footer-area .right-side img{
+	padding-left: 10%;
+	width: 40px;
+	height: auto;
+	padding-top: 10px;
+}
+
+.footer-area h3 {
+	font-size: 10px;
+}
+
+}
+
+
+
+@media all and (max-width: 375px ){
+	
+p{
+	font-size: 6px;
+}
+.header-area {
+	padding: 5px 0;
+}
+.container{
+	width: 90%;
+	
+}
+.menu-area ul li{
+	display: inline;
+	margin: 3px;
+}
+.menu-area ul li a{
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10px;
+	border-bottom: 1px solid transparent ;
+	display: inline-block;
+	padding: 10px 0;
+	transition: .5s;	
+}
+.menu-area ul .logo img{
+	margin: 0 5px;
+	width: 30px;
+	height: auto;
+}
+
+
+.wellcome-text{
+	overflow: hidden;
+	margin-top: 20px;
+}
+.wellcome-text h2{
+	font-size: 20px;
+	letter-spacing: 0;
+}
+.social-icons{
+	overflow: hidden;
+	margin-top: 120px;
+}
+.btn {
+	padding: 6px 12px;
+	border-radius: 2px;
+	font-size: 10px;
+}
+.social-icons ul li a{
+	font-size: 15px;
+	margin-left:5px;
+}
+
+.getting-started .start-text {
+	margin-bottom: 0;
+}
+.getting-started .text-area{
+	padding-bottom: 58%;
+	margin-top: 20px;
+	background-image: url('images/hand.png');
+	background-repeat: no-repeat;
+	background-size: 90% auto;
+	background-position: top right;
+}
+.getting-started .row{
+	margin-top: 14px;
+}
+.text-area p{
+	margin-bottom: 15px;
+	font-size: 7px;
+}
+
+
+.getting-started h3 {
+	font-size: 7px;
+	text-align: center;
+}
+.design-area{
+	overflow: hidden;
+	margin-top: 40px;
+	padding-bottom: 20px;
+}
+.arrow i {
+	color: black;
+	font-size: 15px;
+	margin-right: 10px;
+}
+.slide {
+	margin: 5px 0;
+}
+.design-area p{
+	margin-bottom: 10px;
+}
+.design-area h3{
+	margin-bottom: 7px;
+	margin-top: 0;
+}
+.community-area .image-one h3 {
+	font-size: 7px;
+	letter-spacing: 0.5;
+}
+
+.community-area .image-one img{
+	width: 30px;
+	height: auto;
+}
+.community-area .image-one p{
+	font-size: 5px;
+}
+.community-area{
+	overflow: hidden;
+	background: #f5f6f7;
+	padding: 60px 0;
+}
+
+.image-one {
+	overflow: hidden;
+	float: left;
+	width: 28%;
+	padding-top: 0;
+	text-align: center;
+}
+
+.subscribe-area{
+	background: url('images/subscribe-bg.jpg') no-repeat 0 0 / 100% 100% ;
+	padding: 60px 0;
+	overflow: hidden;
+}
+
+.subscribe-area form {
+	width: 100%;
+	margin: 0;
+	padding-left:60px;
+}
+.subscribe-area form input[type="email"] {
+	padding: 13px 10px;
+	border-radius: 3px 0 0 3px;
+	font-size: 8px;
+	width: 150px;
+}
+.subscribe-area form button[type="submit"] {
+	padding: 10px 10px 13px 10px;
+	border-radius: 0 2px 2px 0;
+}
+.subscribe-area h3{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 5px;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+
+.download-area h4{
+	font-size: 6.5px;
+	line-height: 1.6em;
+	color: #373737;
+	padding: 10px 0;
+	margin-bottom: 40px ;
+}
+.buttons{
+	overflow: hidden;
+	margin-left: 2%;
+	padding:0;
+	
+}
+.buttons i{
+	padding: 5px 5px 8px 5px;
+	border-radius: 0 3px 3px 0;
+	margin-right: 0;
+}
+.buttons .btn {
+	padding: 12.5px 13px 8px 12px;
+	font-size: 12.5px;
+	border-radius: 3px 0 0 3px;
+}
+.buttons .apple{
+	overflow: hidden;
+	float: left;
+	margin-left: 0;
+	padding: 0;
+}
+.footer-area{
+	overflow: hidden;
+	padding: 10px 0;
+}
+
+.footer-area .left-side {
+	overflow: hidden;
+	float: left;
+	width: 70%;
+}
+.footer-area .left-side b{
+	color: black;
+	font-family: gothamroundedbold;
+	font-weight: normal;
+}
+.footer-area .left-side h4{
+	font-size: 9px;
+	font-weight: normal;
+}
+
+
+.footer-area .right-side {
+	overflow: hidden;
+	width: 30%;
+}
+.footer-area .right-side img{
+	padding-left: 10%;
+	width: 40px;
+	height: auto;
+	padding-top: 10px;
+}
+
+.footer-area h3 {
+	font-size: 10px;
+}
+
+
+}
+
+@media all and (max-width: 800px ){
+.buttons{
+	overflow: hidden;
+	margin-left: 1%;
+	padding:0;
+	
+}
+}
+@media all and (max-width: 441px ){
+	
+p{
+	font-size: 6px;
+}
+.header-area {
+	padding: 5px 0;
+}
+.container{
+	width: 90%;
+	
+}
+.menu-area ul li{
+	display: inline;
+	margin: 3px;
+}
+.menu-area ul li a{
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 10px;
+	border-bottom: 1px solid transparent ;
+	display: inline-block;
+	padding: 10px 0;
+	transition: .5s;	
+}
+.menu-area ul .logo img{
+	margin: 0 5px;
+	width: 30px;
+	height: auto;
+}
+
+
+.wellcome-text{
+	overflow: hidden;
+	margin-top: 20px;
+}
+.wellcome-text h2{
+	font-size: 20px;
+	letter-spacing: 0;
+}
+.social-icons{
+	overflow: hidden;
+	margin-top: 120px;
+}
+.btn {
+	padding: 6px 12px;
+	border-radius: 2px;
+	font-size: 10px;
+}
+.social-icons ul li a{
+	font-size: 15px;
+	margin-left:5px;
+}
+
+.getting-started .start-text {
+	margin-bottom: 0;
+}
+.getting-started .text-area{
+	padding-bottom: 58%;
+	margin-top: 20px;
+	background-image: url('images/hand.png');
+	background-repeat: no-repeat;
+	background-size: 90% auto;
+	background-position: top right;
+}
+.getting-started .row{
+	margin-top: 14px;
+}
+.text-area p{
+	margin-bottom: 15px;
+	font-size: 7px;
+}
+
+
+.getting-started h3 {
+	font-size: 7px;
+	text-align: center;
+}
+.design-area{
+	overflow: hidden;
+	margin-top: 40px;
+	padding-bottom: 20px;
+}
+.arrow i {
+	color: black;
+	font-size: 15px;
+	margin-right: 10px;
+}
+.slide {
+	margin: 5px 0;
+}
+.design-area p{
+	margin-bottom: 10px;
+}
+.design-area h3{
+	margin-bottom: 7px;
+	margin-top: 0;
+}
+.community-area .image-one h3 {
+	font-size: 7px;
+	letter-spacing: 0.5;
+}
+
+.community-area .image-one img{
+	width: 30px;
+	height: auto;
+}
+.community-area .image-one p{
+	font-size: 5px;
+}
+.community-area{
+	overflow: hidden;
+	background: #f5f6f7;
+	padding: 60px 0;
+}
+
+.image-one {
+	overflow: hidden;
+	float: left;
+	width: 28%;
+	padding-top: 0;
+	text-align: center;
+}
+
+.subscribe-area{
+	background: url('images/subscribe-bg.jpg') no-repeat 0 0 / 100% 100% ;
+	padding: 60px 0;
+	overflow: hidden;
+}
+
+.subscribe-area form {
+	width: 100%;
+	margin: 0;
+	padding-left:60px;
+}
+.subscribe-area form input[type="email"] {
+	padding: 13px 10px;
+	border-radius: 3px 0 0 3px;
+	font-size: 8px;
+	width: 150px;
+}
+.subscribe-area form button[type="submit"] {
+	padding: 10px 10px 13px 10px;
+	border-radius: 0 2px 2px 0;
+}
+.subscribe-area h3{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 3px;
+	padding-bottom: 5px;
+	cursor: pointer;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+
+.download-area h4{
+	font-size: 6.5px;
+	line-height: 1.6em;
+	color: #373737;
+	padding: 10px 0;
+	margin-bottom: 40px ;
+}
+.buttons{
+	overflow: hidden;
+	margin-left: 3%;
+	padding:0;
+	
+}
+.buttons i{
+	padding: 5px 5px 8px 5px;
+	border-radius: 0 3px 3px 0;
+	margin-right: 0;
+}
+.buttons .btn {
+	padding: 12.5px 13px 8px 12px;
+	font-size: 12.5px;
+	border-radius: 3px 0 0 3px;
+}
+.buttons .apple{
+	overflow: hidden;
+	float: left;
+	margin-left: 0;
+	padding: 0;
+}
+.footer-area{
+	overflow: hidden;
+	padding: 10px 0;
+}
+
+.footer-area .left-side {
+	overflow: hidden;
+	float: left;
+	width: 70%;
+}
+.footer-area .left-side b{
+	color: black;
+	font-family: gothamroundedbold;
+	font-weight: normal;
+}
+.footer-area .left-side h4{
+	font-size: 9px;
+	font-weight: normal;
+}
+
+
+.footer-area .right-side {
+	overflow: hidden;
+	width: 30%;
+}
+.footer-area .right-side img{
+	padding-left: 10%;
+	width: 40px;
+	height: auto;
+	padding-top: 10px;
+}
+
+.footer-area h3 {
+	font-size: 10px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
